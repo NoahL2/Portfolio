@@ -1,0 +1,102 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.customerTable{
+  width: 500px;
+  margin: auto 10px;
+  font-size: 18px;
+  border-collapse: collapse;
+}
+
+.customerTable th,
+.customerTable td {
+  padding: 12px 20px;
+  text-align: left;
+  border: 1px solid black;
+}
+
+.staffTable{
+  width: 350px;
+  margin: auto 10px;
+  font-size: 18px;
+  border-collapse: collapse;
+}
+
+.staffTable th,
+.staffTable td {
+  padding: 12px 20px;
+  text-align: left;
+  border: 1px solid black;
+}
+
+.cleaningTable{
+  width: 700px;
+  margin: auto 10px;
+  font-size: 18px;
+  border-collapse: collapse;
+}
+
+.cleaningTable th,
+.cleaningTable td {
+  padding: 12px 20px;
+  text-align: left;
+  border: 1px solid black;
+}
+
+.rentTable{
+  width: 800px;
+  margin: auto 10px;
+  font-size: 18px;
+  border-collapse: collapse;
+}
+
+.rentTable th,
+.rentTable td {
+  padding: 12px 20px;
+  text-align: left;
+  border: 1px solid black;
+}
+
+
+.boatTable{
+  width: 700px;
+  margin: auto 10px;
+  font-size: 18px;
+  border-collapse: collapse;
+}
+
+.boatTable th,
+.boatTable td {
+  padding: 12px 20px;
+  text-align: left;
+  border: 1px solid black;
+}
+
+.boatTypeTable{
+  width: 600px;
+  margin: auto 10px;
+  font-size: 18px;
+  border-collapse: collapse;
+}
+
+.boatTypeTable th,
+.boatTypeTable td {
+  padding: 12px 20px;
+  text-align: left;
+  border: 1px solid black;
+}
+
+.field{
+  text-align: center;
+}
